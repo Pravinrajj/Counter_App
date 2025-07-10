@@ -45,7 +45,7 @@ Add emojis or icons using Unicode for visual feedback.
 <body>
     <div class="container">
         <h2>Write your message</h2>
-        <textarea id="message" rows="6" maxlength="200" placeholder="Type..."></textarea>
+        <textarea id="message" rows="6" maxlength="100" placeholder="Type..."></textarea>
         <p><span id="counter">0</span> / 100 characters</p>
         <p id="msg" style="color: red; font-weight: 700;"></p>
     </div>
