@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background: #d9d6d6;
+}
+
+.container {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    align-self: center;
+    color: rgb(233, 239, 239);
+}
+
+textarea {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    resize: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#counter {
+    margin-top: 10px;
+    font-weight: bold;
+    color: rgb(233, 239, 239);
+}
