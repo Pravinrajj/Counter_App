@@ -109,7 +109,7 @@ textarea.addEventListener("input", () => {
 
 ```
 ## Output:
-<img width="1543" height="801" alt="image" src="https://github.com/user-attachments/assets/03ca3801-2546-4878-85c3-5c30c8d95280" />
+<img width="611" height="491" alt="image" src="https://github.com/user-attachments/assets/14567b7d-14ff-4110-8e56-527921eaf54e" />
 
 ## Result:
 A live character counter using JavaScript that dynamically displays the number of characters entered into a textarea — similar to what you see in Twitter or feedback forms is built successfully.
